@@ -1,11 +1,11 @@
-# Day 2: Exploring Lists: Matrix Rotation
+# Day 2: Exploring Automation: Backup Script
 
 ## Description
-Internalizing Lists concepts through the matrix rotation exercise.
+Internalizing Automation concepts through the Backup Script exercise.
 
 ## Tasks Accomplished
-- Implement matrix rotation
-- Added unit tests for matrix rotation
+- Implement Backup Script
+- Test edge cases
 - Documentation
 
 ## How to Run

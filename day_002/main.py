@@ -1,1 +1,1 @@
-# Day 2: Matrix Rotation\nprint('Today I built a matrix rotation')\n# Implementation for Day 2 goes here.
+# Day 2: Backup Script\nimport datetime\ndef create_backup(source, dest):\n    print(f'Backing up {source} to {dest} on {datetime.datetime.now()}')\n    pass\ncreate_backup('./data', './backups')\n
