@@ -1,1 +1,4 @@
-# Day 3: List Comprehensions\nnumbers = range(1, 11)\nsquares = [x**2 for x in numbers if x % 2 == 0]\nprint(f'Even squares: {squares}')\n
+# Day 3: List Comprehensions
+numbers = range(1, 11)
+squares = [x**2 for x in numbers if x % 2 == 0]
+print(f'Even squares: {squares}')
