@@ -1,11 +1,11 @@
-# Day 3: Exploring OOP Fundamentals: Smart Home
+# Day 3: Exploring Data Structures: List Comprehensions
 
 ## Description
-Internalizing OOP Fundamentals concepts through the Smart Home exercise.
+Internalizing Data Structures concepts through the List Comprehensions exercise.
 
 ## Tasks Accomplished
-- Implement Smart Home
-- Added unit tests for Smart Home
+- Implement List Comprehensions
+- Test edge cases
 - Documentation
 
 ## How to Run

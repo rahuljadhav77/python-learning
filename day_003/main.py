@@ -1,1 +1,1 @@
-# Day 3: Smart Home\nprint('Today I built a Smart Home')\n# Implementation for Day 3 goes here.
+# Day 3: List Comprehensions\nnumbers = range(1, 11)\nsquares = [x**2 for x in numbers if x % 2 == 0]\nprint(f'Even squares: {squares}')\n
