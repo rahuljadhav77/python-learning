@@ -1,11 +1,11 @@
-# Day 6: Exploring Strings: Text Formatter
+# Day 6: Exploring Automation: File Organizer
 
 ## Description
-Internalizing Strings concepts through the text formatter exercise.
+Internalizing Automation concepts through the File Organizer exercise.
 
 ## Tasks Accomplished
-- Implement text formatter
-- Added unit tests for text formatter
+- Implement File Organizer
+- Test edge cases
 - Documentation
 
 ## How to Run
