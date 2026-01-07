@@ -1,11 +1,11 @@
-# Day 7: Exploring Lists: List Nesting
+# Day 7: Exploring Data Structures: Dictionary Mapping
 
 ## Description
-Internalizing Lists concepts through the list nesting exercise.
+Internalizing Data Structures concepts through the Dictionary Mapping exercise.
 
 ## Tasks Accomplished
-- Implement list nesting
-- Added unit tests for list nesting
+- Implement Dictionary Mapping
+- Test edge cases
 - Documentation
 
 ## How to Run
