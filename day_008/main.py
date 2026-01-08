@@ -1,1 +1,1 @@
-# Day 8: Bank Account Class\nprint('Today I built a Bank account class')\n# Implementation for Day 8 goes here.
+# Day 8: Unit Converter\ndef celsius_to_fahrenheit(c):\n    return (c * 9/5) + 32\n\ntemp = 25\nprint(f'{temp}C is {celsius_to_fahrenheit(temp)}F')\n
