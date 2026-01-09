@@ -1,1 +1,1 @@
-# Day 9: Organizing Folders\nprint('Today I built a organizing folders')\n# Implementation for Day 9 goes here.
+# Day 9: Word Counter\ntext = 'Python is amazing and fun'\nwords = text.split()\nprint(f'Word count: {len(words)}')\n
