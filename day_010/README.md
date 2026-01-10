@@ -1,11 +1,11 @@
-# Day 10: Exploring Logic & Math: Calculator
+# Day 10: Exploring Automation: Batch Renamer
 
 ## Description
-Internalizing Logic & Math concepts through the calculator exercise.
+Internalizing Automation concepts through the Batch Renamer exercise.
 
 ## Tasks Accomplished
-- Implement calculator
-- Added unit tests for calculator
+- Implement Batch Renamer
+- Test edge cases
 - Documentation
 
 ## How to Run
