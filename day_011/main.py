@@ -1,1 +1,1 @@
-# Day 11: Regex Test\nprint('Today I built a regex test')\n# Implementation for Day 11 goes here.
+# Day 11: Set Operations\na = {1, 2, 3, 4}\nb = {3, 4, 5, 6}\nprint(f'Union: {a | b}, Intersection: {a & b}')\n

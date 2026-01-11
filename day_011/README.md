@@ -1,11 +1,11 @@
-# Day 11: Exploring Strings: Regex Test
+# Day 11: Exploring Data Structures: Set Operations
 
 ## Description
-Internalizing Strings concepts through the regex test exercise.
+Internalizing Data Structures concepts through the Set Operations exercise.
 
 ## Tasks Accomplished
-- Implement regex test
-- Added unit tests for regex test
+- Implement Set Operations
+- Test edge cases
 - Documentation
 
 ## How to Run
