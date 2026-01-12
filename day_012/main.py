@@ -1,1 +1,1 @@
-# Day 12: Sorting\nprint('Today I built a sorting')\n# Implementation for Day 12 goes here.
+# Day 12: Prime Checker\ndef is_prime(n):\n    if n < 2: return False\n    for i in range(2, int(n**0.5) + 1):\n        if n % i == 0: return False\n    return True\n\nnum = 29\nprint(f'{num} is prime: {is_prime(num)}')\n
