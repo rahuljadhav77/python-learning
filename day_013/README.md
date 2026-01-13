@@ -1,11 +1,11 @@
-# Day 13: Exploring OOP Fundamentals: Zoo Simulator
+# Day 13: Exploring Strings: Palindrome Test
 
 ## Description
-Internalizing OOP Fundamentals concepts through the Zoo simulator exercise.
+Internalizing Strings concepts through the Palindrome Test exercise.
 
 ## Tasks Accomplished
-- Implement Zoo simulator
-- Added unit tests for Zoo simulator
+- Implement Palindrome Test
+- Test edge cases
 - Documentation
 
 ## How to Run

@@ -1,1 +1,1 @@
-# Day 13: Zoo Simulator\nprint('Today I built a Zoo simulator')\n# Implementation for Day 13 goes here.
+# Day 13: Palindrome Test\ndef is_palindrome(s):\n    clean = ''.join(e for e in s if e.isalnum()).lower()\n    return clean == clean[::-1]\n\nword = 'Racecar'\nprint(f'{word} is palindrome: {is_palindrome(word)}')\n
