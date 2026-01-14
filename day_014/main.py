@@ -1,1 +1,1 @@
-# Day 14: Backup Script\nprint('Today I built a backup script')\n# Implementation for Day 14 goes here.
+# Day 14: Backup Script\nimport datetime\ndef create_backup(source, dest):\n    print(f'Backing up {source} to {dest} on {datetime.datetime.now()}')\n    pass\ncreate_backup('./data', './backups')\n
