@@ -1,11 +1,11 @@
-# Day 16: Exploring Strings: Palindrome Test
+# Day 16: Exploring Logic & Math: Fibonacci Series
 
 ## Description
-Internalizing Strings concepts through the palindrome test exercise.
+Internalizing Logic & Math concepts through the Fibonacci Series exercise.
 
 ## Tasks Accomplished
-- Implement palindrome test
-- Added unit tests for palindrome test
+- Implement Fibonacci Series
+- Test edge cases
 - Documentation
 
 ## How to Run
