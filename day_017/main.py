@@ -1,1 +1,1 @@
-# Day 17: Filtering\nprint('Today I built a filtering')\n# Implementation for Day 17 goes here.
+# Day 17: Text Formatter\ndef bold(text): return f'**{text}**'\ndef italic(text): return f'*{text}*'\nprint(bold(italic('Hello World')))\n
