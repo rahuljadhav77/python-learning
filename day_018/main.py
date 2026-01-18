@@ -1,1 +1,1 @@
-# Day 18: Vehicle Hierarchy\nprint('Today I built a Vehicle hierarchy')\n# Implementation for Day 18 goes here.
+# Day 18: File Organizer\nimport os\nimport shutil\ndef organize_files(path):\n    print(f'Organizing files in {path}...')\n    # Mock organization logic\n    pass\norganize_files('./downloads')\n
