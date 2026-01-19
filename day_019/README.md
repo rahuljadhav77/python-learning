@@ -1,11 +1,11 @@
-# Day 19: Exploring Automation: Email Template
+# Day 19: Exploring Data Structures: Dictionary Mapping
 
 ## Description
-Internalizing Automation concepts through the email template exercise.
+Internalizing Data Structures concepts through the Dictionary Mapping exercise.
 
 ## Tasks Accomplished
-- Implement email template
-- Added unit tests for email template
+- Implement Dictionary Mapping
+- Test edge cases
 - Documentation
 
 ## How to Run
