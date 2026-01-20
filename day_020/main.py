@@ -1,1 +1,1 @@
-# Day 20: Prime Checker\nprint('Today I built a prime checker')\n# Implementation for Day 20 goes here.
+# Day 20: Unit Converter\ndef celsius_to_fahrenheit(c):\n    return (c * 9/5) + 32\n\ntemp = 25\nprint(f'{temp}C is {celsius_to_fahrenheit(temp)}F')\n

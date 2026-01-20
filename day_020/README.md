@@ -1,11 +1,11 @@
-# Day 20: Exploring Logic & Math: Prime Checker
+# Day 20: Exploring Logic & Math: Unit Converter
 
 ## Description
-Internalizing Logic & Math concepts through the prime checker exercise.
+Internalizing Logic & Math concepts through the Unit Converter exercise.
 
 ## Tasks Accomplished
-- Implement prime checker
-- Added unit tests for prime checker
+- Implement Unit Converter
+- Test edge cases
 - Documentation
 
 ## How to Run
