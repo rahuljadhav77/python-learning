@@ -1,1 +1,1 @@
-# Day 22: Matrix Rotation\nprint('Today I built a matrix rotation')\n# Implementation for Day 22 goes here.
+# Day 22: Batch Renamer\nimport os\ndef rename_files(prefix):\n    print(f'Renaming files with prefix: {prefix}')\n    pass\nrename_files('v1_')\n

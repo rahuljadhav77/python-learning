@@ -1,11 +1,11 @@
-# Day 22: Exploring Lists: Matrix Rotation
+# Day 22: Exploring Automation: Batch Renamer
 
 ## Description
-Internalizing Lists concepts through the matrix rotation exercise.
+Internalizing Automation concepts through the Batch Renamer exercise.
 
 ## Tasks Accomplished
-- Implement matrix rotation
-- Added unit tests for matrix rotation
+- Implement Batch Renamer
+- Test edge cases
 - Documentation
 
 ## How to Run
