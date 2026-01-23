@@ -1,11 +1,11 @@
-# Day 23: Exploring OOP Fundamentals: Smart Home
+# Day 23: Exploring Data Structures: Set Operations
 
 ## Description
-Internalizing OOP Fundamentals concepts through the Smart Home exercise.
+Internalizing Data Structures concepts through the Set Operations exercise.
 
 ## Tasks Accomplished
-- Implement Smart Home
-- Added unit tests for Smart Home
+- Implement Set Operations
+- Test edge cases
 - Documentation
 
 ## How to Run

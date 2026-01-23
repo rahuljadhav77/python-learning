@@ -1,1 +1,1 @@
-# Day 23: Smart Home\nprint('Today I built a Smart Home')\n# Implementation for Day 23 goes here.
+# Day 23: Set Operations\na = {1, 2, 3, 4}\nb = {3, 4, 5, 6}\nprint(f'Union: {a | b}, Intersection: {a & b}')\n
