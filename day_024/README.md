@@ -1,11 +1,11 @@
-# Day 24: Exploring Automation: Renaming Files
+# Day 24: Exploring Logic & Math: Prime Checker
 
 ## Description
-Internalizing Automation concepts through the renaming files exercise.
+Internalizing Logic & Math concepts through the Prime Checker exercise.
 
 ## Tasks Accomplished
-- Implement renaming files
-- Added unit tests for renaming files
+- Implement Prime Checker
+- Test edge cases
 - Documentation
 
 ## How to Run
