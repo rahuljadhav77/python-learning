@@ -1,0 +1,1 @@
+# Day 24: Renaming Files\nprint('Today I built a renaming files')\n# Implementation for Day 24 goes here.
