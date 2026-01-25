@@ -1,11 +1,11 @@
-# Day 25: Exploring Logic & Math: Fibonacci
+# Day 25: Exploring Strings: Palindrome Test
 
 ## Description
-Internalizing Logic & Math concepts through the fibonacci exercise.
+Internalizing Strings concepts through the Palindrome Test exercise.
 
 ## Tasks Accomplished
-- Implement fibonacci
-- Added unit tests for fibonacci
+- Implement Palindrome Test
+- Test edge cases
 - Documentation
 
 ## How to Run
