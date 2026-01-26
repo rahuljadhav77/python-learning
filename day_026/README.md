@@ -1,11 +1,11 @@
-# Day 26: Exploring Strings: Text Formatter
+# Day 26: Exploring Automation: Backup Script
 
 ## Description
-Internalizing Strings concepts through the text formatter exercise.
+Internalizing Automation concepts through the Backup Script exercise.
 
 ## Tasks Accomplished
-- Implement text formatter
-- Added unit tests for text formatter
+- Implement Backup Script
+- Test edge cases
 - Documentation
 
 ## How to Run
