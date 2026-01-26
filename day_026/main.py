@@ -1,0 +1,1 @@
+# Day 26: Text Formatter\nprint('Today I built a text formatter')\n# Implementation for Day 26 goes here.
