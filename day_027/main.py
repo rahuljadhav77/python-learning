@@ -1,1 +1,1 @@
-# Day 27: List Nesting\nprint('Today I built a list nesting')\n# Implementation for Day 27 goes here.
+# Day 27: List Comprehensions\nnumbers = range(1, 11)\nsquares = [x**2 for x in numbers if x % 2 == 0]\nprint(f'Even squares: {squares}')\n

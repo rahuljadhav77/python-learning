@@ -1,11 +1,11 @@
-# Day 27: Exploring Lists: List Nesting
+# Day 27: Exploring Data Structures: List Comprehensions
 
 ## Description
-Internalizing Lists concepts through the list nesting exercise.
+Internalizing Data Structures concepts through the List Comprehensions exercise.
 
 ## Tasks Accomplished
-- Implement list nesting
-- Added unit tests for list nesting
+- Implement List Comprehensions
+- Test edge cases
 - Documentation
 
 ## How to Run
