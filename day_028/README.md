@@ -1,11 +1,11 @@
-# Day 28: Exploring OOP Fundamentals: Bank Account Class
+# Day 28: Exploring Logic & Math: Fibonacci Series
 
 ## Description
-Internalizing OOP Fundamentals concepts through the Bank account class exercise.
+Internalizing Logic & Math concepts through the Fibonacci Series exercise.
 
 ## Tasks Accomplished
-- Implement Bank account class
-- Added unit tests for Bank account class
+- Implement Fibonacci Series
+- Test edge cases
 - Documentation
 
 ## How to Run
