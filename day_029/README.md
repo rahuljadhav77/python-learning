@@ -1,11 +1,11 @@
-# Day 29: Exploring Automation: Organizing Folders
+# Day 29: Exploring Strings: Text Formatter
 
 ## Description
-Internalizing Automation concepts through the organizing folders exercise.
+Internalizing Strings concepts through the Text Formatter exercise.
 
 ## Tasks Accomplished
-- Implement organizing folders
-- Added unit tests for organizing folders
+- Implement Text Formatter
+- Test edge cases
 - Documentation
 
 ## How to Run
