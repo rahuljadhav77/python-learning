@@ -1,11 +1,11 @@
-# Day 31: Exploring Strings: Regex Test
+# Day 31: Exploring Data Structures: Dictionary Mapping
 
 ## Description
-Internalizing Strings concepts through the regex test exercise.
+Internalizing Data Structures concepts through the Dictionary Mapping exercise.
 
 ## Tasks Accomplished
-- Implement regex test
-- Added unit tests for regex test
+- Implement Dictionary Mapping
+- Test edge cases
 - Documentation
 
 ## How to Run
