@@ -1,0 +1,1 @@
+# Day 33: Zoo Simulator\nprint('Today I built a Zoo simulator')\n# Implementation for Day 33 goes here.
