@@ -1,1 +1,1 @@
-# Day 34: Backup Script\nprint('Today I built a backup script')\n# Implementation for Day 34 goes here.
+# Day 34: Batch Renamer\nimport os\ndef rename_files(prefix):\n    print(f'Renaming files with prefix: {prefix}')\n    pass\nrename_files('v1_')\n
