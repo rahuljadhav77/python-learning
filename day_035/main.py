@@ -1,1 +1,1 @@
-# Day 35: Unit Converter\nprint('Today I built a unit converter')\n# Implementation for Day 35 goes here.
+# Day 35: Set Operations\na = {1, 2, 3, 4}\nb = {3, 4, 5, 6}\nprint(f'Union: {a | b}, Intersection: {a & b}')\n
