@@ -1,0 +1,1 @@
+# Day 36: Palindrome Test\nprint('Today I built a palindrome test')\n# Implementation for Day 36 goes here.
