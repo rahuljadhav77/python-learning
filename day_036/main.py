@@ -1,1 +1,1 @@
-# Day 36: Palindrome Test\nprint('Today I built a palindrome test')\n# Implementation for Day 36 goes here.
+# Day 36: Prime Checker\ndef is_prime(n):\n    if n < 2: return False\n    for i in range(2, int(n**0.5) + 1):\n        if n % i == 0: return False\n    return True\n\nnum = 29\nprint(f'{num} is prime: {is_prime(num)}')\n
