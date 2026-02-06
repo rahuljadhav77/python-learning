@@ -1,1 +1,1 @@
-# Day 37: Filtering\nprint('Today I built a filtering')\n# Implementation for Day 37 goes here.
+# Day 37: Palindrome Test\ndef is_palindrome(s):\n    clean = ''.join(e for e in s if e.isalnum()).lower()\n    return clean == clean[::-1]\n\nword = 'Racecar'\nprint(f'{word} is palindrome: {is_palindrome(word)}')\n
