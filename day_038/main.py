@@ -1,1 +1,1 @@
-# Day 38: Vehicle Hierarchy\nprint('Today I built a Vehicle hierarchy')\n# Implementation for Day 38 goes here.
+# Day 38: Backup Script\nimport datetime\ndef create_backup(source, dest):\n    print(f'Backing up {source} to {dest} on {datetime.datetime.now()}')\n    pass\ncreate_backup('./data', './backups')\n
