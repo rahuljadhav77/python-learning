@@ -1,11 +1,11 @@
-# Day 39: Exploring Automation: Email Template
+# Day 39: Exploring Data Structures: List Comprehensions
 
 ## Description
-Internalizing Automation concepts through the email template exercise.
+Internalizing Data Structures concepts through the List Comprehensions exercise.
 
 ## Tasks Accomplished
-- Implement email template
-- Added unit tests for email template
+- Implement List Comprehensions
+- Test edge cases
 - Documentation
 
 ## How to Run
