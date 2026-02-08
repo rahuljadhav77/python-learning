@@ -1,0 +1,1 @@
+# Day 39: Email Template\nprint('Today I built a email template')\n# Implementation for Day 39 goes here.
