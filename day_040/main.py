@@ -1,0 +1,1 @@
+# Day 40: Prime Checker\nprint('Today I built a prime checker')\n# Implementation for Day 40 goes here.
