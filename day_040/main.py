@@ -1,1 +1,8 @@
-# Day 40: Fibonacci Series\ndef fib(n):\n    a, b = 0, 1\n    for _ in range(n):\n        yield a\n        a, b = b, a + b\n\nprint(list(fib(10)))\n
+# Day 40: Fibonacci Series
+def fib(n):
+    a, b = 0, 1
+    for _ in range(n):
+        yield a
+        a, b = b, a + b
+
+print(list(fib(10)))
