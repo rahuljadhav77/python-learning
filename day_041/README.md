@@ -1,11 +1,11 @@
-# Day 41: Exploring Strings: Word Counter
+# Day 41: Exploring Strings: Text Formatter
 
 ## Description
-Internalizing Strings concepts through the word counter exercise.
+Internalizing Strings concepts through the Text Formatter exercise.
 
 ## Tasks Accomplished
-- Implement word counter
-- Added unit tests for word counter
+- Implement Text Formatter
+- Test edge cases
 - Documentation
 
 ## How to Run

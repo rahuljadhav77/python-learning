@@ -1,1 +1,1 @@
-# Day 41: Word Counter\nprint('Today I built a word counter')\n# Implementation for Day 41 goes here.
+# Day 41: Text Formatter\ndef bold(text): return f'**{text}**'\ndef italic(text): return f'*{text}*'\nprint(bold(italic('Hello World')))\n
