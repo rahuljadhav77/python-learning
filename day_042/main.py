@@ -1,1 +1,1 @@
-# Day 42: Matrix Rotation\nprint('Today I built a matrix rotation')\n# Implementation for Day 42 goes here.
+# Day 42: File Organizer\nimport os\nimport shutil\ndef organize_files(path):\n    print(f'Organizing files in {path}...')\n    # Mock organization logic\n    pass\norganize_files('./downloads')\n

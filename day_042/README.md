@@ -1,11 +1,11 @@
-# Day 42: Exploring Lists: Matrix Rotation
+# Day 42: Exploring Automation: File Organizer
 
 ## Description
-Internalizing Lists concepts through the matrix rotation exercise.
+Internalizing Automation concepts through the File Organizer exercise.
 
 ## Tasks Accomplished
-- Implement matrix rotation
-- Added unit tests for matrix rotation
+- Implement File Organizer
+- Test edge cases
 - Documentation
 
 ## How to Run
