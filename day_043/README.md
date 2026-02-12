@@ -1,11 +1,11 @@
-# Day 43: Exploring OOP Fundamentals: Smart Home
+# Day 43: Exploring Data Structures: Dictionary Mapping
 
 ## Description
-Internalizing OOP Fundamentals concepts through the Smart Home exercise.
+Internalizing Data Structures concepts through the Dictionary Mapping exercise.
 
 ## Tasks Accomplished
-- Implement Smart Home
-- Added unit tests for Smart Home
+- Implement Dictionary Mapping
+- Test edge cases
 - Documentation
 
 ## How to Run

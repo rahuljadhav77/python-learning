@@ -1,1 +1,1 @@
-# Day 43: Smart Home\nprint('Today I built a Smart Home')\n# Implementation for Day 43 goes here.
+# Day 43: Dictionary Mapping\nprices = {'apple': 0.5, 'banana': 0.3}\nstock = {'apple': 10, 'banana': 20}\ntotal_value = sum(prices[k] * stock[k] for k in prices)\nprint(f'Total stock value: ${total_value:.2f}')\n
