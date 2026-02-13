@@ -1,11 +1,11 @@
-# Day 44: Exploring Automation: Renaming Files
+# Day 44: Exploring Logic & Math: Unit Converter
 
 ## Description
-Internalizing Automation concepts through the renaming files exercise.
+Internalizing Logic & Math concepts through the Unit Converter exercise.
 
 ## Tasks Accomplished
-- Implement renaming files
-- Added unit tests for renaming files
+- Implement Unit Converter
+- Test edge cases
 - Documentation
 
 ## How to Run

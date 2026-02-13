@@ -1,1 +1,1 @@
-# Day 44: Renaming Files\nprint('Today I built a renaming files')\n# Implementation for Day 44 goes here.
+# Day 44: Unit Converter\ndef celsius_to_fahrenheit(c):\n    return (c * 9/5) + 32\n\ntemp = 25\nprint(f'{temp}C is {celsius_to_fahrenheit(temp)}F')\n
