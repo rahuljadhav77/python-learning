@@ -1,1 +1,4 @@
-# Day 45: Word Counter\ntext = 'Python is amazing and fun'\nwords = text.split()\nprint(f'Word count: {len(words)}')\n
+# Day 45: Word Counter
+text = 'Python is amazing and fun'
+words = text.split()
+print(f'Word count: {len(words)}')
