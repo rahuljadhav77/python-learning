@@ -1,1 +1,1 @@
-# Day 45: Fibonacci\nprint('Today I built a fibonacci')\n# Implementation for Day 45 goes here.
+# Day 45: Word Counter\ntext = 'Python is amazing and fun'\nwords = text.split()\nprint(f'Word count: {len(words)}')\n

@@ -1,11 +1,11 @@
-# Day 45: Exploring Logic & Math: Fibonacci
+# Day 45: Exploring Strings: Word Counter
 
 ## Description
-Internalizing Logic & Math concepts through the fibonacci exercise.
+Internalizing Strings concepts through the Word Counter exercise.
 
 ## Tasks Accomplished
-- Implement fibonacci
-- Added unit tests for fibonacci
+- Implement Word Counter
+- Test edge cases
 - Documentation
 
 ## How to Run
