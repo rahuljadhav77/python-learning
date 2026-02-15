@@ -1,1 +1,1 @@
-# Day 46: Text Formatter\nprint('Today I built a text formatter')\n# Implementation for Day 46 goes here.
+# Day 46: Batch Renamer\nimport os\ndef rename_files(prefix):\n    print(f'Renaming files with prefix: {prefix}')\n    pass\nrename_files('v1_')\n

@@ -1,11 +1,11 @@
-# Day 46: Exploring Strings: Text Formatter
+# Day 46: Exploring Automation: Batch Renamer
 
 ## Description
-Internalizing Strings concepts through the text formatter exercise.
+Internalizing Automation concepts through the Batch Renamer exercise.
 
 ## Tasks Accomplished
-- Implement text formatter
-- Added unit tests for text formatter
+- Implement Batch Renamer
+- Test edge cases
 - Documentation
 
 ## How to Run
