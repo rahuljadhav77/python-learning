@@ -1,11 +1,11 @@
-# Day 47: Exploring Lists: List Nesting
+# Day 47: Exploring Data Structures: Set Operations
 
 ## Description
-Internalizing Lists concepts through the list nesting exercise.
+Internalizing Data Structures concepts through the Set Operations exercise.
 
 ## Tasks Accomplished
-- Implement list nesting
-- Added unit tests for list nesting
+- Implement Set Operations
+- Test edge cases
 - Documentation
 
 ## How to Run

@@ -1,1 +1,1 @@
-# Day 47: List Nesting\nprint('Today I built a list nesting')\n# Implementation for Day 47 goes here.
+# Day 47: Set Operations\na = {1, 2, 3, 4}\nb = {3, 4, 5, 6}\nprint(f'Union: {a | b}, Intersection: {a & b}')\n
