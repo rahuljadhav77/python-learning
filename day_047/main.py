@@ -1,0 +1,1 @@
+# Day 47: List Nesting\nprint('Today I built a list nesting')\n# Implementation for Day 47 goes here.
