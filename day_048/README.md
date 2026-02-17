@@ -1,11 +1,11 @@
-# Day 48: Exploring OOP Fundamentals: Bank Account Class
+# Day 48: Exploring Logic & Math: Prime Checker
 
 ## Description
-Internalizing OOP Fundamentals concepts through the Bank account class exercise.
+Internalizing Logic & Math concepts through the Prime Checker exercise.
 
 ## Tasks Accomplished
-- Implement Bank account class
-- Added unit tests for Bank account class
+- Implement Prime Checker
+- Test edge cases
 - Documentation
 
 ## How to Run

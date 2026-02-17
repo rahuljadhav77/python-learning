@@ -1,1 +1,1 @@
-# Day 48: Bank Account Class\nprint('Today I built a Bank account class')\n# Implementation for Day 48 goes here.
+# Day 48: Prime Checker\ndef is_prime(n):\n    if n < 2: return False\n    for i in range(2, int(n**0.5) + 1):\n        if n % i == 0: return False\n    return True\n\nnum = 29\nprint(f'{num} is prime: {is_prime(num)}')\n
