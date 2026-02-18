@@ -1,11 +1,11 @@
-# Day 49: Exploring Automation: Organizing Folders
+# Day 49: Exploring Strings: Palindrome Test
 
 ## Description
-Internalizing Automation concepts through the organizing folders exercise.
+Internalizing Strings concepts through the Palindrome Test exercise.
 
 ## Tasks Accomplished
-- Implement organizing folders
-- Added unit tests for organizing folders
+- Implement Palindrome Test
+- Test edge cases
 - Documentation
 
 ## How to Run
