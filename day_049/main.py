@@ -1,1 +1,7 @@
-# Day 49: Palindrome Test\ndef is_palindrome(s):\n    clean = ''.join(e for e in s if e.isalnum()).lower()\n    return clean == clean[::-1]\n\nword = 'Racecar'\nprint(f'{word} is palindrome: {is_palindrome(word)}')\n
+# Day 49: Palindrome Test
+def is_palindrome(s):
+    clean = ''.join(e for e in s if e.isalnum()).lower()
+    return clean == clean[::-1]
+
+word = 'Racecar'
+print(f'{word} is palindrome: {is_palindrome(word)}')
