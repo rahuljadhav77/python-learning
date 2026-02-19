@@ -1,1 +1,1 @@
-# Day 50: Calculator\nprint('Today I built a calculator')\n# Implementation for Day 50 goes here.
+# Day 50: Backup Script\nimport datetime\ndef create_backup(source, dest):\n    print(f'Backing up {source} to {dest} on {datetime.datetime.now()}')\n    pass\ncreate_backup('./data', './backups')\n

@@ -1,11 +1,11 @@
-# Day 50: Exploring Logic & Math: Calculator
+# Day 50: Exploring Automation: Backup Script
 
 ## Description
-Internalizing Logic & Math concepts through the calculator exercise.
+Internalizing Automation concepts through the Backup Script exercise.
 
 ## Tasks Accomplished
-- Implement calculator
-- Added unit tests for calculator
+- Implement Backup Script
+- Test edge cases
 - Documentation
 
 ## How to Run
