@@ -1,11 +1,11 @@
-# Day 51: Exploring Strings: Regex Test
+# Day 51: Exploring Data Structures: List Comprehensions
 
 ## Description
-Internalizing Strings concepts through the regex test exercise.
+Internalizing Data Structures concepts through the List Comprehensions exercise.
 
 ## Tasks Accomplished
-- Implement regex test
-- Added unit tests for regex test
+- Implement List Comprehensions
+- Test edge cases
 - Documentation
 
 ## How to Run

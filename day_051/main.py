@@ -1,1 +1,1 @@
-# Day 51: Regex Test\nprint('Today I built a regex test')\n# Implementation for Day 51 goes here.
+# Day 51: List Comprehensions\nnumbers = range(1, 11)\nsquares = [x**2 for x in numbers if x % 2 == 0]\nprint(f'Even squares: {squares}')\n
