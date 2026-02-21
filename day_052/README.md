@@ -1,11 +1,11 @@
-# Day 52: Exploring Lists: Sorting
+# Day 52: Exploring Logic & Math: Fibonacci Series
 
 ## Description
-Internalizing Lists concepts through the sorting exercise.
+Internalizing Logic & Math concepts through the Fibonacci Series exercise.
 
 ## Tasks Accomplished
-- Implement sorting
-- Added unit tests for sorting
+- Implement Fibonacci Series
+- Test edge cases
 - Documentation
 
 ## How to Run

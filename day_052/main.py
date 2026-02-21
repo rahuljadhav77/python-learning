@@ -1,1 +1,1 @@
-# Day 52: Sorting\nprint('Today I built a sorting')\n# Implementation for Day 52 goes here.
+# Day 52: Fibonacci Series\ndef fib(n):\n    a, b = 0, 1\n    for _ in range(n):\n        yield a\n        a, b = b, a + b\n\nprint(list(fib(10)))\n
