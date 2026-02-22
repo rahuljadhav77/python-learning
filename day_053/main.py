@@ -1,1 +1,1 @@
-# Day 53: Zoo Simulator\nprint('Today I built a Zoo simulator')\n# Implementation for Day 53 goes here.
+# Day 53: Text Formatter\ndef bold(text): return f'**{text}**'\ndef italic(text): return f'*{text}*'\nprint(bold(italic('Hello World')))\n

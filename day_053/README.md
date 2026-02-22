@@ -1,11 +1,11 @@
-# Day 53: Exploring OOP Fundamentals: Zoo Simulator
+# Day 53: Exploring Strings: Text Formatter
 
 ## Description
-Internalizing OOP Fundamentals concepts through the Zoo simulator exercise.
+Internalizing Strings concepts through the Text Formatter exercise.
 
 ## Tasks Accomplished
-- Implement Zoo simulator
-- Added unit tests for Zoo simulator
+- Implement Text Formatter
+- Test edge cases
 - Documentation
 
 ## How to Run
