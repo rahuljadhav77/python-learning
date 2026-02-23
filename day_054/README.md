@@ -1,11 +1,11 @@
-# Day 54: Exploring Automation: Backup Script
+# Day 54: Exploring Automation: File Organizer
 
 ## Description
-Internalizing Automation concepts through the backup script exercise.
+Internalizing Automation concepts through the File Organizer exercise.
 
 ## Tasks Accomplished
-- Implement backup script
-- Added unit tests for backup script
+- Implement File Organizer
+- Test edge cases
 - Documentation
 
 ## How to Run

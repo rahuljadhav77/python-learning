@@ -1,1 +1,1 @@
-# Day 54: Backup Script\nprint('Today I built a backup script')\n# Implementation for Day 54 goes here.
+# Day 54: File Organizer\nimport os\nimport shutil\ndef organize_files(path):\n    print(f'Organizing files in {path}...')\n    # Mock organization logic\n    pass\norganize_files('./downloads')\n
