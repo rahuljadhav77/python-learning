@@ -1,11 +1,11 @@
-# Day 55: Exploring Logic & Math: Unit Converter
+# Day 55: Exploring Data Structures: Dictionary Mapping
 
 ## Description
-Internalizing Logic & Math concepts through the unit converter exercise.
+Internalizing Data Structures concepts through the Dictionary Mapping exercise.
 
 ## Tasks Accomplished
-- Implement unit converter
-- Added unit tests for unit converter
+- Implement Dictionary Mapping
+- Test edge cases
 - Documentation
 
 ## How to Run
