@@ -1,11 +1,11 @@
-# Day 56: Exploring Strings: Palindrome Test
+# Day 56: Exploring Logic & Math: Unit Converter
 
 ## Description
-Internalizing Strings concepts through the palindrome test exercise.
+Internalizing Logic & Math concepts through the Unit Converter exercise.
 
 ## Tasks Accomplished
-- Implement palindrome test
-- Added unit tests for palindrome test
+- Implement Unit Converter
+- Test edge cases
 - Documentation
 
 ## How to Run

@@ -1,1 +1,1 @@
-# Day 56: Palindrome Test\nprint('Today I built a palindrome test')\n# Implementation for Day 56 goes here.
+# Day 56: Unit Converter\ndef celsius_to_fahrenheit(c):\n    return (c * 9/5) + 32\n\ntemp = 25\nprint(f'{temp}C is {celsius_to_fahrenheit(temp)}F')\n
