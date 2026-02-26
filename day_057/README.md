@@ -1,11 +1,11 @@
-# Day 57: Exploring Lists: Filtering
+# Day 57: Exploring Strings: Word Counter
 
 ## Description
-Internalizing Lists concepts through the filtering exercise.
+Internalizing Strings concepts through the Word Counter exercise.
 
 ## Tasks Accomplished
-- Implement filtering
-- Added unit tests for filtering
+- Implement Word Counter
+- Test edge cases
 - Documentation
 
 ## How to Run

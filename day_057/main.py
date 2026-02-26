@@ -1,1 +1,1 @@
-# Day 57: Filtering\nprint('Today I built a filtering')\n# Implementation for Day 57 goes here.
+# Day 57: Word Counter\ntext = 'Python is amazing and fun'\nwords = text.split()\nprint(f'Word count: {len(words)}')\n
