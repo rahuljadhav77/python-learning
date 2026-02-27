@@ -1,0 +1,1 @@
+# Day 58: Vehicle Hierarchy\nprint('Today I built a Vehicle hierarchy')\n# Implementation for Day 58 goes here.
