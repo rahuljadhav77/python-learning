@@ -1,11 +1,11 @@
-# Day 58: Exploring OOP Fundamentals: Vehicle Hierarchy
+# Day 58: Exploring Automation: Batch Renamer
 
 ## Description
-Internalizing OOP Fundamentals concepts through the Vehicle hierarchy exercise.
+Internalizing Automation concepts through the Batch Renamer exercise.
 
 ## Tasks Accomplished
-- Implement Vehicle hierarchy
-- Added unit tests for Vehicle hierarchy
+- Implement Batch Renamer
+- Test edge cases
 - Documentation
 
 ## How to Run

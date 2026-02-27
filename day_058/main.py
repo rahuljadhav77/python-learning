@@ -1,1 +1,1 @@
-# Day 58: Vehicle Hierarchy\nprint('Today I built a Vehicle hierarchy')\n# Implementation for Day 58 goes here.
+# Day 58: Batch Renamer\nimport os\ndef rename_files(prefix):\n    print(f'Renaming files with prefix: {prefix}')\n    pass\nrename_files('v1_')\n
