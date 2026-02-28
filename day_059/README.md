@@ -1,11 +1,11 @@
-# Day 59: Exploring Automation: Email Template
+# Day 59: Exploring Data Structures: Set Operations
 
 ## Description
-Internalizing Automation concepts through the email template exercise.
+Internalizing Data Structures concepts through the Set Operations exercise.
 
 ## Tasks Accomplished
-- Implement email template
-- Added unit tests for email template
+- Implement Set Operations
+- Test edge cases
 - Documentation
 
 ## How to Run

@@ -1,1 +1,1 @@
-# Day 59: Email Template\nprint('Today I built a email template')\n# Implementation for Day 59 goes here.
+# Day 59: Set Operations\na = {1, 2, 3, 4}\nb = {3, 4, 5, 6}\nprint(f'Union: {a | b}, Intersection: {a & b}')\n
