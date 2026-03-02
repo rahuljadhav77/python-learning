@@ -1,1 +1,1 @@
-# Day 61: Word Counter\nprint('Today I built a word counter')\n# Implementation for Day 61 goes here.
+# Day 61: Palindrome Test\ndef is_palindrome(s):\n    clean = ''.join(e for e in s if e.isalnum()).lower()\n    return clean == clean[::-1]\n\nword = 'Racecar'\nprint(f'{word} is palindrome: {is_palindrome(word)}')\n

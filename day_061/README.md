@@ -1,11 +1,11 @@
-# Day 61: Exploring Strings: Word Counter
+# Day 61: Exploring Strings: Palindrome Test
 
 ## Description
-Internalizing Strings concepts through the word counter exercise.
+Internalizing Strings concepts through the Palindrome Test exercise.
 
 ## Tasks Accomplished
-- Implement word counter
-- Added unit tests for word counter
+- Implement Palindrome Test
+- Test edge cases
 - Documentation
 
 ## How to Run
