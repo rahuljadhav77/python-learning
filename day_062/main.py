@@ -1,1 +1,1 @@
-# Day 62: Matrix Rotation\nprint('Today I built a matrix rotation')\n# Implementation for Day 62 goes here.
+# Day 62: Backup Script\nimport datetime\ndef create_backup(source, dest):\n    print(f'Backing up {source} to {dest} on {datetime.datetime.now()}')\n    pass\ncreate_backup('./data', './backups')\n
