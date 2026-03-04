@@ -1,0 +1,1 @@
+# Day 63: Smart Home\nprint('Today I built a Smart Home')\n# Implementation for Day 63 goes here.
