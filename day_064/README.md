@@ -1,11 +1,11 @@
-# Day 64: Exploring Automation: Renaming Files
+# Day 64: Exploring Logic & Math: Fibonacci Series
 
 ## Description
-Internalizing Automation concepts through the renaming files exercise.
+Internalizing Logic & Math concepts through the Fibonacci Series exercise.
 
 ## Tasks Accomplished
-- Implement renaming files
-- Added unit tests for renaming files
+- Implement Fibonacci Series
+- Test edge cases
 - Documentation
 
 ## How to Run

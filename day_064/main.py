@@ -1,1 +1,1 @@
-# Day 64: Renaming Files\nprint('Today I built a renaming files')\n# Implementation for Day 64 goes here.
+# Day 64: Fibonacci Series\ndef fib(n):\n    a, b = 0, 1\n    for _ in range(n):\n        yield a\n        a, b = b, a + b\n\nprint(list(fib(10)))\n
