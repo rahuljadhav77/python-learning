@@ -1,1 +1,1 @@
-# Day 65: Fibonacci\nprint('Today I built a fibonacci')\n# Implementation for Day 65 goes here.
+# Day 65: Text Formatter\ndef bold(text): return f'**{text}**'\ndef italic(text): return f'*{text}*'\nprint(bold(italic('Hello World')))\n

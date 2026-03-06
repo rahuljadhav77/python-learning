@@ -1,11 +1,11 @@
-# Day 65: Exploring Logic & Math: Fibonacci
+# Day 65: Exploring Strings: Text Formatter
 
 ## Description
-Internalizing Logic & Math concepts through the fibonacci exercise.
+Internalizing Strings concepts through the Text Formatter exercise.
 
 ## Tasks Accomplished
-- Implement fibonacci
-- Added unit tests for fibonacci
+- Implement Text Formatter
+- Test edge cases
 - Documentation
 
 ## How to Run
