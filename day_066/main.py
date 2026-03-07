@@ -1,1 +1,1 @@
-# Day 66: Text Formatter\nprint('Today I built a text formatter')\n# Implementation for Day 66 goes here.
+# Day 66: File Organizer\nimport os\nimport shutil\ndef organize_files(path):\n    print(f'Organizing files in {path}...')\n    # Mock organization logic\n    pass\norganize_files('./downloads')\n
