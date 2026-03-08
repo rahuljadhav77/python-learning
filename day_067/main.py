@@ -1,1 +1,1 @@
-# Day 67: List Nesting\nprint('Today I built a list nesting')\n# Implementation for Day 67 goes here.
+# Day 67: Dictionary Mapping\nprices = {'apple': 0.5, 'banana': 0.3}\nstock = {'apple': 10, 'banana': 20}\ntotal_value = sum(prices[k] * stock[k] for k in prices)\nprint(f'Total stock value: ${total_value:.2f}')\n
