@@ -1,11 +1,11 @@
-# Day 68: Exploring OOP Fundamentals: Bank Account Class
+# Day 68: Exploring Logic & Math: Unit Converter
 
 ## Description
-Internalizing OOP Fundamentals concepts through the Bank account class exercise.
+Internalizing Logic & Math concepts through the Unit Converter exercise.
 
 ## Tasks Accomplished
-- Implement Bank account class
-- Added unit tests for Bank account class
+- Implement Unit Converter
+- Test edge cases
 - Documentation
 
 ## How to Run
