@@ -1,11 +1,11 @@
-# Day 69: Exploring Automation: Organizing Folders
+# Day 69: Exploring Strings: Word Counter
 
 ## Description
-Internalizing Automation concepts through the organizing folders exercise.
+Internalizing Strings concepts through the Word Counter exercise.
 
 ## Tasks Accomplished
-- Implement organizing folders
-- Added unit tests for organizing folders
+- Implement Word Counter
+- Test edge cases
 - Documentation
 
 ## How to Run
