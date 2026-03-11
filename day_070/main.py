@@ -1,1 +1,1 @@
-# Day 70: Calculator\nprint('Today I built a calculator')\n# Implementation for Day 70 goes here.
+# Day 70: Batch Renamer\nimport os\ndef rename_files(prefix):\n    print(f'Renaming files with prefix: {prefix}')\n    pass\nrename_files('v1_')\n
