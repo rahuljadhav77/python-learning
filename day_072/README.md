@@ -1,11 +1,11 @@
-# Day 72: Exploring Lists: Sorting
+# Day 72: Exploring Logic & Math: Prime Checker
 
 ## Description
-Internalizing Lists concepts through the sorting exercise.
+Internalizing Logic & Math concepts through the Prime Checker exercise.
 
 ## Tasks Accomplished
-- Implement sorting
-- Added unit tests for sorting
+- Implement Prime Checker
+- Test edge cases
 - Documentation
 
 ## How to Run
