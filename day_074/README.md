@@ -1,11 +1,11 @@
 # Day 74: Exploring Automation: Backup Script
 
 ## Description
-Internalizing Automation concepts through the backup script exercise.
+Internalizing Automation concepts through the Backup Script exercise.
 
 ## Tasks Accomplished
-- Implement backup script
-- Added unit tests for backup script
+- Implement Backup Script
+- Test edge cases
 - Documentation
 
 ## How to Run
