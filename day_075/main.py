@@ -1,1 +1,1 @@
-# Day 75: Unit Converter\nprint('Today I built a unit converter')\n# Implementation for Day 75 goes here.
+# Day 75: List Comprehensions\nnumbers = range(1, 11)\nsquares = [x**2 for x in numbers if x % 2 == 0]\nprint(f'Even squares: {squares}')\n
