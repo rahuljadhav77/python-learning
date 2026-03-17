@@ -1,1 +1,1 @@
-# Day 76: Palindrome Test\nprint('Today I built a palindrome test')\n# Implementation for Day 76 goes here.
+# Day 76: Fibonacci Series\ndef fib(n):\n    a, b = 0, 1\n    for _ in range(n):\n        yield a\n        a, b = b, a + b\n\nprint(list(fib(10)))\n
