@@ -1,11 +1,11 @@
-# Day 77: Exploring Lists: Filtering
+# Day 77: Exploring Strings: Text Formatter
 
 ## Description
-Internalizing Lists concepts through the filtering exercise.
+Internalizing Strings concepts through the Text Formatter exercise.
 
 ## Tasks Accomplished
-- Implement filtering
-- Added unit tests for filtering
+- Implement Text Formatter
+- Test edge cases
 - Documentation
 
 ## How to Run
