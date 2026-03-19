@@ -1,11 +1,11 @@
-# Day 78: Exploring OOP Fundamentals: Vehicle Hierarchy
+# Day 78: Exploring Automation: File Organizer
 
 ## Description
-Internalizing OOP Fundamentals concepts through the Vehicle hierarchy exercise.
+Internalizing Automation concepts through the File Organizer exercise.
 
 ## Tasks Accomplished
-- Implement Vehicle hierarchy
-- Added unit tests for Vehicle hierarchy
+- Implement File Organizer
+- Test edge cases
 - Documentation
 
 ## How to Run
