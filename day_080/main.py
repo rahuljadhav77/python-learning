@@ -1,1 +1,6 @@
-# Day 80: Unit Converter\ndef celsius_to_fahrenheit(c):\n    return (c * 9/5) + 32\n\ntemp = 25\nprint(f'{temp}C is {celsius_to_fahrenheit(temp)}F')\n
+# Day 80: Unit Converter
+def celsius_to_fahrenheit(c):
+    return (c * 9/5) + 32
+
+temp = 25
+print(f'{temp}C is {celsius_to_fahrenheit(temp)}F')
