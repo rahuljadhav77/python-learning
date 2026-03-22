@@ -1,11 +1,11 @@
 # Day 81: Exploring Strings: Word Counter
 
 ## Description
-Internalizing Strings concepts through the word counter exercise.
+Internalizing Strings concepts through the Word Counter exercise.
 
 ## Tasks Accomplished
-- Implement word counter
-- Added unit tests for word counter
+- Implement Word Counter
+- Test edge cases
 - Documentation
 
 ## How to Run

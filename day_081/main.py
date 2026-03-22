@@ -1,1 +1,1 @@
-# Day 81: Word Counter\nprint('Today I built a word counter')\n# Implementation for Day 81 goes here.
+# Day 81: Word Counter\ntext = 'Python is amazing and fun'\nwords = text.split()\nprint(f'Word count: {len(words)}')\n
