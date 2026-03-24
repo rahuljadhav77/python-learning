@@ -1,1 +1,4 @@
-# Day 83: Set Operations\na = {1, 2, 3, 4}\nb = {3, 4, 5, 6}\nprint(f'Union: {a | b}, Intersection: {a & b}')\n
+# Day 83: Set Operations
+a = {1, 2, 3, 4}
+b = {3, 4, 5, 6}
+print(f'Union: {a | b}, Intersection: {a & b}')
