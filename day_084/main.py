@@ -1,1 +1,9 @@
-# Day 84: Prime Checker\ndef is_prime(n):\n    if n < 2: return False\n    for i in range(2, int(n**0.5) + 1):\n        if n % i == 0: return False\n    return True\n\nnum = 29\nprint(f'{num} is prime: {is_prime(num)}')\n
+# Day 84: Prime Checker
+def is_prime(n):
+    if n < 2: return False
+    for i in range(2, int(n**0.5) + 1):
+        if n % i == 0: return False
+    return True
+
+num = 29
+print(f'{num} is prime: {is_prime(num)}')
