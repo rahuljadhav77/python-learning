@@ -1,1 +1,1 @@
-# Day 85: Fibonacci\nprint('Today I built a fibonacci')\n# Implementation for Day 85 goes here.
+# Day 85: Palindrome Test\ndef is_palindrome(s):\n    clean = ''.join(e for e in s if e.isalnum()).lower()\n    return clean == clean[::-1]\n\nword = 'Racecar'\nprint(f'{word} is palindrome: {is_palindrome(word)}')\n
