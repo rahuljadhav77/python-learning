@@ -1,1 +1,1 @@
-# Day 86: Text Formatter\nprint('Today I built a text formatter')\n# Implementation for Day 86 goes here.
+# Day 86: Backup Script\nimport datetime\ndef create_backup(source, dest):\n    print(f'Backing up {source} to {dest} on {datetime.datetime.now()}')\n    pass\ncreate_backup('./data', './backups')\n
