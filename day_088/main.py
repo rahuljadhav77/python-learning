@@ -1,1 +1,1 @@
-# Day 88: Bank Account Class\nprint('Today I built a Bank account class')\n# Implementation for Day 88 goes here.
+# Day 88: Fibonacci Series\ndef fib(n):\n    a, b = 0, 1\n    for _ in range(n):\n        yield a\n        a, b = b, a + b\n\nprint(list(fib(10)))\n
