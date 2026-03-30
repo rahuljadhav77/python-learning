@@ -1,1 +1,4 @@
-# Day 89: Text Formatter\ndef bold(text): return f'**{text}**'\ndef italic(text): return f'*{text}*'\nprint(bold(italic('Hello World')))\n
+# Day 89: Text Formatter
+def bold(text): return f'**{text}**'
+def italic(text): return f'*{text}*'
+print(bold(italic('Hello World')))
