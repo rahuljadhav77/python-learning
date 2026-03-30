@@ -1,1 +1,1 @@
-# Day 89: Organizing Folders\nprint('Today I built a organizing folders')\n# Implementation for Day 89 goes here.
+# Day 89: Text Formatter\ndef bold(text): return f'**{text}**'\ndef italic(text): return f'*{text}*'\nprint(bold(italic('Hello World')))\n
