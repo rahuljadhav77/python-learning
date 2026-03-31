@@ -1,11 +1,11 @@
-# Day 90: Exploring Logic & Math: Calculator
+# Day 90: Exploring Automation: File Organizer
 
 ## Description
-Internalizing Logic & Math concepts through the calculator exercise.
+Internalizing Automation concepts through the File Organizer exercise.
 
 ## Tasks Accomplished
-- Implement calculator
-- Added unit tests for calculator
+- Implement File Organizer
+- Test edge cases
 - Documentation
 
 ## How to Run

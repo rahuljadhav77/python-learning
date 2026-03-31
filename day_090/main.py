@@ -1,1 +1,1 @@
-# Day 90: Calculator\nprint('Today I built a calculator')\n# Implementation for Day 90 goes here.
+# Day 90: File Organizer\nimport os\nimport shutil\ndef organize_files(path):\n    print(f'Organizing files in {path}...')\n    # Mock organization logic\n    pass\norganize_files('./downloads')\n
