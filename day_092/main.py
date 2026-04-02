@@ -1,1 +1,1 @@
-# Day 92: Sorting\nprint('Today I built a sorting')\n# Implementation for Day 92 goes here.
+# Day 92: Unit Converter\ndef celsius_to_fahrenheit(c):\n    return (c * 9/5) + 32\n\ntemp = 25\nprint(f'{temp}C is {celsius_to_fahrenheit(temp)}F')\n

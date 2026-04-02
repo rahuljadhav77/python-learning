@@ -1,11 +1,11 @@
-# Day 92: Exploring Lists: Sorting
+# Day 92: Exploring Logic & Math: Unit Converter
 
 ## Description
-Internalizing Lists concepts through the sorting exercise.
+Internalizing Logic & Math concepts through the Unit Converter exercise.
 
 ## Tasks Accomplished
-- Implement sorting
-- Added unit tests for sorting
+- Implement Unit Converter
+- Test edge cases
 - Documentation
 
 ## How to Run
