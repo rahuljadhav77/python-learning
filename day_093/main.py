@@ -1,1 +1,1 @@
-# Day 93: Zoo Simulator\nprint('Today I built a Zoo simulator')\n# Implementation for Day 93 goes here.
+# Day 93: Word Counter\ntext = 'Python is amazing and fun'\nwords = text.split()\nprint(f'Word count: {len(words)}')\n

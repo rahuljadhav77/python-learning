@@ -1,11 +1,11 @@
-# Day 93: Exploring OOP Fundamentals: Zoo Simulator
+# Day 93: Exploring Strings: Word Counter
 
 ## Description
-Internalizing OOP Fundamentals concepts through the Zoo simulator exercise.
+Internalizing Strings concepts through the Word Counter exercise.
 
 ## Tasks Accomplished
-- Implement Zoo simulator
-- Added unit tests for Zoo simulator
+- Implement Word Counter
+- Test edge cases
 - Documentation
 
 ## How to Run
