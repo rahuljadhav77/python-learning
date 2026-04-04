@@ -1,11 +1,11 @@
-# Day 94: Exploring Automation: Backup Script
+# Day 94: Exploring Automation: Batch Renamer
 
 ## Description
-Internalizing Automation concepts through the backup script exercise.
+Internalizing Automation concepts through the Batch Renamer exercise.
 
 ## Tasks Accomplished
-- Implement backup script
-- Added unit tests for backup script
+- Implement Batch Renamer
+- Test edge cases
 - Documentation
 
 ## How to Run
