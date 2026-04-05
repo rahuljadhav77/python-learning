@@ -1,11 +1,11 @@
-# Day 95: Exploring Logic & Math: Unit Converter
+# Day 95: Exploring Data Structures: Set Operations
 
 ## Description
-Internalizing Logic & Math concepts through the unit converter exercise.
+Internalizing Data Structures concepts through the Set Operations exercise.
 
 ## Tasks Accomplished
-- Implement unit converter
-- Added unit tests for unit converter
+- Implement Set Operations
+- Test edge cases
 - Documentation
 
 ## How to Run
