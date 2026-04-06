@@ -1,11 +1,11 @@
-# Day 96: Exploring Strings: Palindrome Test
+# Day 96: Exploring Logic & Math: Prime Checker
 
 ## Description
-Internalizing Strings concepts through the palindrome test exercise.
+Internalizing Logic & Math concepts through the Prime Checker exercise.
 
 ## Tasks Accomplished
-- Implement palindrome test
-- Added unit tests for palindrome test
+- Implement Prime Checker
+- Test edge cases
 - Documentation
 
 ## How to Run
