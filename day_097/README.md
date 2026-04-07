@@ -1,11 +1,11 @@
-# Day 97: Exploring Lists: Filtering
+# Day 97: Exploring Strings: Palindrome Test
 
 ## Description
-Internalizing Lists concepts through the filtering exercise.
+Internalizing Strings concepts through the Palindrome Test exercise.
 
 ## Tasks Accomplished
-- Implement filtering
-- Added unit tests for filtering
+- Implement Palindrome Test
+- Test edge cases
 - Documentation
 
 ## How to Run
