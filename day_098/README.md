@@ -1,11 +1,11 @@
-# Day 98: Exploring OOP Fundamentals: Vehicle Hierarchy
+# Day 98: Exploring Automation: Backup Script
 
 ## Description
-Internalizing OOP Fundamentals concepts through the Vehicle hierarchy exercise.
+Internalizing Automation concepts through the Backup Script exercise.
 
 ## Tasks Accomplished
-- Implement Vehicle hierarchy
-- Added unit tests for Vehicle hierarchy
+- Implement Backup Script
+- Test edge cases
 - Documentation
 
 ## How to Run
