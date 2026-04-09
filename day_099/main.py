@@ -1,1 +1,1 @@
-# Day 99: Email Template\nprint('Today I built a email template')\n# Implementation for Day 99 goes here.
+# Day 99: List Comprehensions\nnumbers = range(1, 11)\nsquares = [x**2 for x in numbers if x % 2 == 0]\nprint(f'Even squares: {squares}')\n
