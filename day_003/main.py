@@ -1,0 +1,1 @@
+# Day 3: Smart Home\nprint('Today I built a Smart Home')\n# Implementation for Day 3 goes here.
