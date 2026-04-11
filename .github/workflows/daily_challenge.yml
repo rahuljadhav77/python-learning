@@ -1,0 +1,33 @@
+name: Daily Python Challenge
+
+on:
+  schedule:
+    - cron: '0 18 * * *' # Runs every day at 6:00 PM UTC
+  workflow_dispatch: # Allows manual trigger from the Actions tab
+
+jobs:
+  update-repo:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    
+    steps:
+      - name: Checkout Repo
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+
+      - name: Run Automator
+        run: |
+          # Set up Git identity for the commit
+          git config user.name "GitHub Actions Runner"
+          git config user.email "actions@github.com"
+          
+          # Generate the next day and push it
+          # We use --push in the script which calls git push
+          python cli.py --next --push
