@@ -2,14 +2,27 @@ import os
 import subprocess
 import datetime
 import random
+import json
 from pathlib import Path
 from curriculum import get_day_data
 
+try:
+    from openai import OpenAI
+except ImportError:
+    OpenAI = None
+
 class PythonChallengeAutomator:
-    def __init__(self, repo_path, branch="main"):
+    def __init__(self, repo_path, branch="main", api_key=None):
         self.repo_path = Path(repo_path).absolute()
         self.branch = branch
         self.os_env = os.environ.copy()
+        self.api_key = api_key or os.getenv("LLM_API_KEY")
+        self.client = None
+        if OpenAI and self.api_key:
+            self.client = OpenAI(
+                api_key=self.api_key,
+                base_url=os.getenv("LLM_BASE_URL", "https://api.openai.com/v1")
+            )
 
     def _run_git(self, args, commit_date=None):
         env = self.os_env.copy()
@@ -43,6 +56,33 @@ class PythonChallengeAutomator:
 
     def generate_day(self, day_number, custom_date=None, push=False):
         day_data = get_day_data(day_number)
+        
+        # Override with LLM if available
+        if self.client:
+            print(f"Generating content for Day {day_number} using AI...")
+            prompt = f"""
+            You are an expert Python educator. Create Day {day_number} of a '100 Days of Python' challenge.
+            Topic: {day_data['title']}
+            Description: {day_data['description']}
+            
+            Return a JSON object with:
+            - 'code': High-quality, functional Python code for this day.
+            - 'readme_desc': A brief, encouraging explanation of the task.
+            - 'accomplishments': A list of 3 bullet points.
+            """
+            try:
+                response = self.client.chat.completions.create(
+                    model=os.getenv("LLM_MODEL", "gpt-3.5-turbo"),
+                    messages=[{"role": "user", "content": prompt}],
+                    response_format={ "type": "json_object" }
+                )
+                ai_data = json.loads(response.choices[0].message.content)
+                day_data['code'] = ai_data['code']
+                day_data['description'] = ai_data['readme_desc']
+                day_data['tasks'] = ai_data['accomplishments']
+            except Exception as e:
+                print(f"AI Generation failed, falling back to curriculum: {e}")
+
         folder_name = f"day_{day_number:03d}"
         dir_path = self.repo_path / folder_name
         dir_path.mkdir(exist_ok=True)

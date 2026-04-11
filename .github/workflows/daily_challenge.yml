@@ -22,12 +22,20 @@ jobs:
         with:
           python-version: '3.9'
 
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
       - name: Run Automator
+        env:
+          LLM_API_KEY: ${{ secrets.LLM_API_KEY }}
+          LLM_BASE_URL: ${{ vars.LLM_BASE_URL }} # Optional: Use custom endpoint
+          LLM_MODEL: ${{ vars.LLM_MODEL }}       # Optional: e.g. gemma2
         run: |
           # Set up Git identity for the commit
           git config user.name "GitHub Actions Runner"
           git config user.email "actions@github.com"
           
           # Generate the next day and push it
-          # We use --push in the script which calls git push
           python cli.py --next --push
